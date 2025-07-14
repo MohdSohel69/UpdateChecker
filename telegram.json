@@ -1,5 +1,5 @@
 {
-  "version_code": 60602,
+  "version_code": 60603,
   "title_update": "Update Available",
   "title_made_by": "Sohel",
   "title_color": "#FF0000",
@@ -14,7 +14,7 @@
     "New UI design guide",
     "Update FAQs and support"
   ],
-  "telegram_link": "https://www.instagram.com/_aesthetic_phage_?igsh=ZTlsdDY4NGpsYzY3",
+  "instagram_link": "https://www.instagram.com/_aesthetic_phage_?igsh=ZTlsdDY4NGpsYzY3",
   "update_link": "https://example.com/update",
   "dialog_exit_on_false": true
 }
